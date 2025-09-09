@@ -1,0 +1,7 @@
+use collegeconnect;
+
+db.createCollection("users");
+db.createCollection("forums");
+db.createCollection("events");
+db.createCollection("projects");
+db.createCollection("messages");
